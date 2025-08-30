@@ -34,14 +34,29 @@ StayEasy is a passionate recreation of the Airbnb experience—thoughtfully desi
 
 ---
 
+## For adding initial dummy data
+
+```bash
+cd init
+node index.js
+```
+
+---
+
 ##  Installation & Setup
 
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/zameernagaral/StayEasy.git
    cd StayEasy
+   ```
 
 2. **Install the dependencies**
   ```bash
   npm install
+  ```
 
+3. **Run the server
+```bash
+node index.js
+```
