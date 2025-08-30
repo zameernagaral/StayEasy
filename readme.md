@@ -1,6 +1,6 @@
 # StayEasy
 
-**Your Airbnb-style room rental platform built with JavaScript, EJS, and Express.**
+**Airbnb-style room rental platform built with JavaScript, EJS, and Express.**
 
 ---
 
@@ -32,6 +32,10 @@ StayEasy is a passionate recreation of the Airbnb experience—thoughtfully desi
 - **EJS (Embedded JavaScript Templates)** – Keeps the UI clear, logical, and easy to grasp.  
 - **CSS** – No frameworks here: clean, custom styling that honors classical design principles.
 
+---
+
+## Important
+- Change the Mongo_Url
 ---
 
 ## For adding initial dummy data
