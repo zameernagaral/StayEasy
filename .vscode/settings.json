@@ -4,5 +4,9 @@
       "name": "Preset Connection",
       "connectionString": "mongodb://localhost:27017"
     }
-  ]
+  ],
+  "files.associations": {
+    "*.ejs": "html",
+    "SD.C": "cpp"
+  }
 }

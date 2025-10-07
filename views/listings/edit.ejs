@@ -3,7 +3,7 @@
     
     <h1 class="mt-5">Edit the listing</h1>
     <br>
-    <form action="/listings/<%= listing._id %>?_method=PUT" method="post">
+    <form action="/listings/<%= listing._id %>?_method=PUT" method="post" class="needs-validation" novalidate>
         <div class="row">
             <div>
         <label for="title" class="form-label">Title</label>
