@@ -60,7 +60,7 @@ node index.js
   npm install
   ```
 
-3. **Run the server
+3. **Run the server**
 ```bash
 node index.js
 ```
